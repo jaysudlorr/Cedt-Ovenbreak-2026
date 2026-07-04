@@ -1,6 +1,6 @@
 #include <iostream>
 
 int main() {
-    std::cout << "CEDT 2026";
+    std::cout << "Hello Croissant";
     return 0;
 }
